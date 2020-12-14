@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:round1_web/routing/route_names.dart';
 import 'package:round1_web/widgets/navigatio_bar/navbar_logo.dart';
-import 'package:round1_web/widgets/navigatio_bar/navbar_item.dart';
+import 'package:round1_web/widgets/navbar_item/navbar_item.dart';
 
 class NavigationBarDesktopTablet extends StatelessWidget {
   const NavigationBarDesktopTablet({Key key}) : super(key: key);
