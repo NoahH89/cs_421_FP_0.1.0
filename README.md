@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+In this inital part of the Final project I will be simpy posting the Demo that I followed and have a given outline as to what I would like to start out with.
+I know that this isn't very much at this point in time but there will be quick progression.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
