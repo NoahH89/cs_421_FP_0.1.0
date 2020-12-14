@@ -24,6 +24,18 @@ class MyApp extends StatelessWidget {
   }
 }
 /*
+- With the submission of build week 2 (version 0.2.0) there are still lots of issues that have popped up regarding the actual implementation of the information needed for this project
+- I was able to get a good footing to on where I wanted this to go. I would need to substitute what the initail Demo was intending to use for this
+- I did not implement all of the features that I would have liked to for this iterative release 0.2.0
+  - no comment are
+  - no embedded video links
+  - lack of tabs possed in my initial idea
+  - ect
+- there are a lot of things that could have been done differently
+- and my eyes were way bigger than my appetite
+  - I bit off more ideas than I could chew and I burnt myself out
+ */
+/*
 - With the submission of build week one ( version 0.1.0), I simply just realeased a demo recreation with minor detailing.
     I only implimented a sizing adjustment for the window once it was ran. I am attempting to create my own, assest names and features that
     have an impact on how I would like this whole project to pan out.
